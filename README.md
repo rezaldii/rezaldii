@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Rezaldi from Riau Islands, Indonesia<br><br>- 📚 I'm currently studying at Amikom University Yogyakarta.<br>- ⚡ In my spare time, I often learn about machine learning and artificial intelligence.</p>
+<p align="left">I'm Rezaldi from Riau Islands, Indonesia<br><br>- 📚 I am an Informatics graduate from Universitas Amikom Yogyakarta.<br>- ⚡ In my spare time, I often learn about machine learning and artificial intelligence.</p>
 
 ###
 
